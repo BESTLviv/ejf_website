@@ -489,3 +489,40 @@ center img {
   width: 225px;
   padding: 10px 0 0 10px;
 }
+
+.partners{
+  position:relative;
+}
+.partners_yazaki_fix{
+	 display: inline-block;
+  width: auto;
+  max-height:250px;
+  max-width:300px;
+  height:auto;
+  margin: 30px 50px 30px 60px;
+}
+.partners_nulp_fix{
+  display: inline-block;
+  width: auto;
+  max-height:200px;
+  max-width:200px;
+  height:auto;
+  margin: 30px 50px 30px 60px;
+}
+.partners_1{
+  display: inline-block;
+  width: auto;
+  max-height:250px;
+  max-width:250px;
+  height:auto;
+  margin: 30px 50px 30px 60px;
+}
+
+.partners_2{
+  display: inline-block;
+  width: auto;
+  max-height:100px;
+  max-width:200px;
+  height:auto;
+  margin: 30px 50px 30px 60px;
+}
