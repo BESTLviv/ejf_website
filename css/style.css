@@ -67,6 +67,7 @@ p {
   border-radius: 499rem !important; }
 
 .justify-center {
+  position:relative;
   display: flex;
   align-items: center;
   justify-content: center; }
@@ -526,7 +527,14 @@ center img {
   height:auto;
   margin: 30px 50px 30px 60px;
 }
-
+.partners_3{
+  display: inline-block;
+  width: auto;
+  max-height:80px;
+  max-width:220px;
+  height:auto;
+  margin: 30px 50px 30px 60px;
+}
 .partners_info{
   display: inline-block;
   width: auto;
