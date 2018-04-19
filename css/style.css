@@ -535,6 +535,14 @@ center img {
   height:auto;
   margin: 30px 50px 30px 60px;
 }
+.partners_4{
+  display: inline-block;
+  width: auto;
+  max-height:150px;
+  max-width:220px;
+  height:auto;
+  margin: 30px 50px 30px 60px;
+}
 .partners_info{
   display: inline-block;
   width: auto;
