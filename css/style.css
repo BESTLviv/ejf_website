@@ -498,7 +498,7 @@ center img {
 	 display: inline-block;
   width: auto;
   max-height:250px;
-  max-width:300px;
+  max-width:400px;
   height:auto;
   margin: 30px 50px 30px 60px;
 }
@@ -513,8 +513,8 @@ center img {
 .partners_1{
   display: inline-block;
   width: auto;
-  max-height:250px;
-  max-width:250px;
+  max-height:225px;
+  max-width:300px;
   height:auto;
   margin: 30px 50px 30px 60px;
 }
@@ -543,6 +543,16 @@ center img {
   height:auto;
   margin: 30px 50px 30px 60px;
 }
+
+.partners_6{
+  display: inline-block;
+  width: auto;
+  max-height:125px;
+  max-width:125px;
+  height:auto;
+  margin: 30px 50px 30px 60px;
+}
+
 .partners_info{
   display: inline-block;
   width: auto;
