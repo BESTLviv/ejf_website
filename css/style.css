@@ -464,7 +464,62 @@ li.nav-item .btn-white {
     width: 100%;
     padding: 0;
     display: flex;
-    justify-content: center; } }
+    justify-content: center; 
+  } 
+
+  h1 {
+    font-size: 2.8rem !important;
+  }
+
+  h2 {
+    font-size: 2rem !important;
+  }
+
+  .partners_yazaki_fix{
+    margin: 30px 25px 15px 25px !important;
+    padding: 0 !important;
+    width: 80vw !important;
+  }
+  .partners_nulp_fix{
+    margin: 30px 25px 15px 25px !important;
+    padding: 0 !important;
+    width: 80vw;
+  }
+  .partners_1{
+    margin: 30px 25px 15px 25px !important;
+    padding: 0 !important;
+    width: 80vw !important;
+  }
+  .partners_2{
+    margin: 30px 25px 15px 25px !important;
+    padding: 0 !important;
+    width: 80vw;
+  }
+  .partners_3{
+    margin: 30px 25px 15px 25px !important;
+    padding: 0 !important;
+    width: 80vw;
+  }
+  .partners_4{
+    margin: 30px 25px 15px 25px !important;
+    padding: 0 !important;
+    width: 80vw;
+  }
+  .partners_6{
+    margin: 30px 25px 15px 25px !important;
+    padding: 0 !important;
+    width: 80vw;
+  }
+  .partners_info{
+    margin: 30px 25px 15px 30px !important;
+    padding: 0 !important;
+    width: 80vw;
+  }
+}
+
+@media screen and (max-width: 768px) {
+
+}
 
     .adaptive-wrap {
       position: relative;
